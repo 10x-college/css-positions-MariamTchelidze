@@ -26,8 +26,8 @@ https://www.figma.com/design/opLphKmHq2loVdSZdqGywv/skilled-elearning-landing-pa
 
 1. გადაიღეთ აწყობილი გვერდის სურათი (Screenshot) და დაარქვით სახელი (`preview.png`).
 2. ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში (კოდის ფაილებთან ერთად).
+3. <img width="1905" height="1608" alt="preview" src="https://github.com/user-attachments/assets/940bb223-ac37-4d8b-b294-5a872ec058e4" />
 
-![Design Preview](./preview.png)
 
 #### 🚀 (Optional) ჰოსტინგი
 
